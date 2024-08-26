@@ -1,4 +1,4 @@
-quirements for. application are:
+Requirements for. application are:
 · On start of the application, input should be gathered to set up the bike shop and its inventory of each type of bike.
 · Once bike shop is established; customers can then rent bikes.
 · The application should be continuous throughout the day. Meaning, the application should always be running during each day.
